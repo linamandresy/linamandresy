@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @linamandresy
 - 👀 I’m interested in software development, web , mobile and AI
 - 🌱 I’m currently learning Generative AI
-- 💞️ I’m looking to collaborate on Go Project
 - 📫 How to reach me via email : mandresyrab@gmail.com
 
 <!---
