@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Java, JavaScript/TypeScript, Python, Golang  
+**Languages:** Java, JavaScript/TypeScript, Python, Golang  , C++ , Qt
 **Frontend:** React, Angular, VueJS, React Native, Swift  
 **Backend:** Spring, Django, Node.js, Laravel  
 **Databases:** SQL, NoSQL, PostgreSQL, MySQL, Oracle DB  
