@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lina Mandresy
 
-💻 **Full-Stack Software Engineer** | 🌱 Passionate about **Generative AI** | 📍 Based in **Toronto, ON**
+💻 **Full-Stack Software Engineer** | 🌱 Passionate about ** machine learning** | 📍 Based in **Toronto, ON**
 
 📧 Reach me at: [mandresyrab@gmail.com](mailto:mandresyrab@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/lina-mandresy/)
